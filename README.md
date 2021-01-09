@@ -1,1 +1,2 @@
-Odyssey - TDD in JavaScript - Introduction _ 01
+Odyssey - TDD in JavaScript - Test Runner _ 02
+Solution for quest-2

@@ -4,7 +4,8 @@
   "description": "Odyssey - TDD in JavaScript - Introduction _ 01",
   "main": "capitalizeFirstLetters.js",
   "scripts": {
-    "start": "node capitalizeFirstLetters"
+    "start": "node capitalizeFirstLetters",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/FredyLy/js-tdd-intro/issues"
   },
-  "homepage": "https://github.com/FredyLy/js-tdd-intro#readme"
+  "homepage": "https://github.com/FredyLy/js-tdd-intro#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
 }
