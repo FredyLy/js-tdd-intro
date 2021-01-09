@@ -1,0 +1,20 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "Odyssey - TDD in JavaScript - Introduction _ 01",
+  "main": "capitalizeFirstLetters.js",
+  "scripts": {
+    "start": "node capitalizeFirstLetters"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredyLy/js-tdd-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredyLy/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/FredyLy/js-tdd-intro#readme"
+}
