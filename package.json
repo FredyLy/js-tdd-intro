@@ -4,7 +4,7 @@
   "description": "Odyssey - TDD in JavaScript - Introduction _ 01",
   "main": "capitalizeFirstLetters.js",
   "scripts": {
-    "start": "node capitalizeFirstLetters",
+    "start": "node Rectangle",
     "test": "mocha"
   },
   "repository": {
